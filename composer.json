@@ -1,0 +1,16 @@
+{
+    "name": "qidongwen/rx-client",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yun\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "QD WEN",
+            "email": "44762586+wqd1688@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
