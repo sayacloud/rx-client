@@ -8,4 +8,9 @@ class Application
     {
         return 'hi';
     }
+
+    public function test()
+    {
+        return 'test';
+    }
 }
