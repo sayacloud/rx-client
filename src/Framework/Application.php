@@ -18,4 +18,9 @@ class Application
     {
         return 'test2';
     }
+
+    public function test4()
+    {
+        return 'test4';
+    }
 }
